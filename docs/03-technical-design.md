@@ -1,4 +1,4 @@
-# Technical design
+# Technical Design (SDD)
 
 **Owner:** [Name] · **Status:** [Proposed / Reviewed / Implemented]
 
