@@ -17,6 +17,8 @@ Use this repository when you want a practical structure for documenting what to 
 
 Also included: GitHub feature/bug issue templates, a pull-request template, and an optional [Architecture Decision Record (ADR)](docs/decisions/ADR-TEMPLATE.md).
 
+See [examples/task-tracker](examples/task-tracker/README.md) for all six documents filled in for a small sample project.
+
 ## How to use it
 
 1. Click **Use this template → Create a new repository**, then clone your new repository.
