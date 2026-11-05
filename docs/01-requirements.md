@@ -1,4 +1,4 @@
-# Requirements
+# Requirements (PRD)
 
 **Project:** [Name] · **Owner:** [Who resolves scope/rules] · **Status:** [Draft / Agreed]
 
