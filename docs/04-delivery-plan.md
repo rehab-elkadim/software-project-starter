@@ -1,4 +1,4 @@
-# Delivery plan
+# Delivery Plan (Implementation Plan)
 
 **Release:** [Name / scope] · **Owner:** [Name] · **Target:** [Date or explicitly unknown]
 
