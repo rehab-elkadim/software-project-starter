@@ -1,4 +1,4 @@
-# Verification
+# Verification (Test Plan)
 
 **Release / build:** [Version or commit] · **Environment:** [Where checked] · **Owner:** [Name]
 
