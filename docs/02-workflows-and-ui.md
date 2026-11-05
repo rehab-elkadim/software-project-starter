@@ -1,4 +1,4 @@
-# Workflows and UI
+# Workflows and UI (User Flows & Wireframes)
 
 **Owner:** [Name] · **Status:** [Draft / Reviewed]
 
